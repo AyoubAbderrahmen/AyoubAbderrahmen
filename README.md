@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayou Abderrahmen
+- 👋 Hi, I’m Ayoub Abderrahmen
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning new programming languages
 - 💞️ I’m looking to collaborate on ...
