@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayoub Abderrahmen
+- 👋 Hi, I’m Azza Fersi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning new programming languages
 - 💞️ I’m looking to collaborate on ...
